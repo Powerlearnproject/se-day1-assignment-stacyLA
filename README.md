@@ -40,12 +40,12 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 IDEs provide a comprehensive suite of tools such as code editoes, debuggers build automation tools and integrated testing frameworks that streamline the software development process. examples incude VSCode, pycharm ,eclipse
 
-VCS track changes in code overtime,allowing developers to revert to previous versions , collaborate effectively and mange different branches of code.examples are git and github
+VCS track changes in code overtime,allowing developers to revert to previous versions , collaborate effectively and mange different branches of code.examples are git and github.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 keeping up with current technology. this can be overcome by continous learning
-identifying debugging complex issues . this can be overcme by collabotration and effective debugging techniques
+identifying debugging complex issues . this can be overcme by collabotration and effective debugging techniques.
 changing requirements within a system. this can be overciome by employing agile methodologies
 poor time mangement when developing systems. this can be overcome by time boxing nad prioritization
 poor team collaboration. this is overcome by employing clear communication and collaboration tools
